@@ -9,7 +9,7 @@
             <li class="nav-item">
               <a class="nav-link font-weight-bold mb-0 h5  active" href="about-us.php">Presentation</a>
             </li>
-                 <li class="nav-item <?php if($page=="index.php"){echo "active";} ?> ">
+                 <li class="nav-item">
               <a class="nav-link font-weight-bold mb-0 h5" href="index.php">Offre</a>
             </li>
              <li class="nav-item ">
