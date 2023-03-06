@@ -26,6 +26,7 @@ $var = date('d/m/Y');
 
     <!-- Custom styles for this template -->
     <link href="css/modern-business.css" rel="stylesheet">
+    <link href="plugins\bootstrap-4.4.1-dist\css\bootstrap.css" rel="stylesheet">
 
   </head>
 
